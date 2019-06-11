@@ -2,10 +2,10 @@
 
 O desafio de Frontend foi organizado em 3 etapas, onde em cada etapa será avaliado um tipo de conhecimento diferente.
 
-Objetivo:
+#### Objetivo:<br/>
 Desenvolver um PWA de um Todo-list (Exemplo: https://www.w3schools.com/howto/howto_js_todolist.asp)
 
-Premissas:
+#### Premissas:
 - O Web-App deverá:
 - Utilizar grid responsiva
 - Rodar em cima de um servidor Node
