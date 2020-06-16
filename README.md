@@ -9,7 +9,6 @@ Desenvolver um PWA de um Todo-list (Exemplo: https://www.w3schools.com/howto/how
 - O Web-App deverá:
 - Utilizar grid responsiva
 - Ter estilos escritos em SASS
-- Utilizar Axios para chamadas Ajax
 - Ter os componentes (botões, inputs, espaçamentos) desenvolvidos e criados por você, não será permitido o uso de Bootstrap
 - Ser desenvolvido utilizando Vue e os arquivos JS devem estar em ECMA6
 - A estrutura de arquivos fica a seu critério
